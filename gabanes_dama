@@ -1,0 +1,55 @@
+{
+  "total_size": 4,
+  "type_id": 2,
+  "offset": 1,
+  "products" : [
+    {
+      "id": 1,
+      "name": "Gabán Hera",
+      "description": "Presentamos el nuevo gabán para mujer, un imprescindible en tu guardarropa de invierno. Este gabán combina a la perfección estilo y funcionalidad, confeccionado con materiales de alta calidad que lo hacen resistente y duradero. Su corte clásico y elegante te hará lucir sofisticada en cualquier ocasión. Además, cuenta con una capucha desmontable y cierre con cremallera para mayor comodidad y versatilidad. Disponible en varios colores y tallas, este gabán se adapta a diferentes estilos y gustos. No dejes pasar la oportunidad de añadir este hermoso gabán a tu colección de ropa de invierno y estar preparada para cualquier clima frío. Este gabán para mujer es perfecto para darle un toque elegante y sofisticado a cualquier outfit. Su corte entallado acentúa la figura femenina. Este gabán es la pieza esencial que toda mujer necesita en su armario de invierno.",
+      "price": 184000,
+      "stars": 5,
+      "img": "https://firebasestorage.googleapis.com/v0/b/natural-app-a5042.appspot.com/o/chaqueta-cuero-jean02.png?alt=media&token=851495d7-4607-440a-be89-d93fe92ea966",
+      "location": "Colombia",
+      "created_at": "2023-01-01 08:00:00",
+      "updated_at": "2023-02-01 08:00:00",
+      "type_id": 2
+    },
+    {
+      "id": 2,
+      "name": "Gabán Hera",
+      "img": "https://firebasestorage.googleapis.com/v0/b/natural-app-a5042.appspot.com/o/chaqueta-cuero-jean02.png?alt=media&token=851495d7-4607-440a-be89-d93fe92ea966",
+      "description": "Presentamos el nuevo gabán para mujer, un imprescindible en tu guardarropa de invierno. Este gabán combina a la perfección estilo y funcionalidad, confeccionado con materiales de alta calidad que lo hacen resistente y duradero. Su corte clásico y elegante te hará lucir sofisticada en cualquier ocasión. Además, cuenta con una capucha desmontable y cierre con cremallera para mayor comodidad y versatilidad. Disponible en varios colores y tallas, este gabán se adapta a diferentes estilos y gustos. No dejes pasar la oportunidad de añadir este hermoso gabán a tu colección de ropa de invierno y estar preparada para cualquier clima frío. Este gabán para mujer es perfecto para darle un toque elegante y sofisticado a cualquier outfit. Su corte entallado acentúa la figura femenina. Este gabán es la pieza esencial que toda mujer necesita en su armario de invierno.",
+      "price": 128000,
+      "stars": 5,
+      "location": "Colombia",
+      "created_at": "2023-01-01 08:00:00",
+      "updated_at": "2023-02-01 08:00:00",
+      "type_id": 2
+    },
+    {
+      "id": 3,
+      "name": "Jean Hombre",
+      "img": "https://firebasestorage.googleapis.com/v0/b/natural-app-a5042.appspot.com/o/chaqueta-cuero-jean02.png?alt=media&token=851495d7-4607-440a-be89-d93fe92ea966",
+      "description": "Presentamos el nuevo gabán para mujer, un imprescindible en tu guardarropa de invierno. Este gabán combina a la perfección estilo y funcionalidad, confeccionado con materiales de alta calidad que lo hacen resistente y duradero. Su corte clásico y elegante te hará lucir sofisticada en cualquier ocasión. Además, cuenta con una capucha desmontable y cierre con cremallera para mayor comodidad y versatilidad. Disponible en varios colores y tallas, este gabán se adapta a diferentes estilos y gustos. No dejes pasar la oportunidad de añadir este hermoso gabán a tu colección de ropa de invierno y estar preparada para cualquier clima frío. Este gabán para mujer es perfecto para darle un toque elegante y sofisticado a cualquier outfit. Su corte entallado acentúa la figura femenina. Este gabán es la pieza esencial que toda mujer necesita en su armario de invierno.",
+      "price": 138000,
+      "stars": 5,
+      "location": "Colombia",
+      "created_at": "2023-01-01 08:00:00",
+      "updated_at": "2023-02-01 08:00:00",
+      "type_id": 2
+    },
+    {
+      "id": 4,
+      "name": "Jean Hombre",
+      "img": "https://firebasestorage.googleapis.com/v0/b/natural-app-a5042.appspot.com/o/chaqueta-cuero-jean02.png?alt=media&token=851495d7-4607-440a-be89-d93fe92ea966",
+      "description": "Presentamos el nuevo gabán para mujer, un imprescindible en tu guardarropa de invierno. Este gabán combina a la perfección estilo y funcionalidad, confeccionado con materiales de alta calidad que lo hacen resistente y duradero. Su corte clásico y elegante te hará lucir sofisticada en cualquier ocasión. Además, cuenta con una capucha desmontable y cierre con cremallera para mayor comodidad y versatilidad. Disponible en varios colores y tallas, este gabán se adapta a diferentes estilos y gustos. No dejes pasar la oportunidad de añadir este hermoso gabán a tu colección de ropa de invierno y estar preparada para cualquier clima frío. Este gabán para mujer es perfecto para darle un toque elegante y sofisticado a cualquier outfit. Su corte entallado acentúa la figura femenina. Este gabán es la pieza esencial que toda mujer necesita en su armario de invierno.",
+      "price": 108000,
+      "stars": 5,
+      "location": "Colombia",
+      "created_at": "2023-01-01 08:00:00",
+      "updated_at": "2023-02-01 08:00:00",
+      "type_id": 2
+    }
+  ]
+}
