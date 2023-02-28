@@ -4,7 +4,7 @@
   "offset": 1,
   "products" : [
     {
-      "id": 1,
+      "id": 0,
       "name": "Gabán Hera",
       "description": "Presentamos el nuevo gabán para mujer, un imprescindible en tu guardarropa de invierno. Este gabán combina a la perfección estilo y funcionalidad, confeccionado con materiales de alta calidad que lo hacen resistente y duradero. Su corte clásico y elegante te hará lucir sofisticada en cualquier ocasión. Además, cuenta con una capucha desmontable y cierre con cremallera para mayor comodidad y versatilidad. Disponible en varios colores y tallas, este gabán se adapta a diferentes estilos y gustos. No dejes pasar la oportunidad de añadir este hermoso gabán a tu colección de ropa de invierno y estar preparada para cualquier clima frío. Este gabán para mujer es perfecto para darle un toque elegante y sofisticado a cualquier outfit. Su corte entallado acentúa la figura femenina. Este gabán es la pieza esencial que toda mujer necesita en su armario de invierno.",
       "price": 184000,
@@ -17,7 +17,7 @@
       "type_id": 1
     },
     {
-      "id": 2,
+      "id": 1,
       "name": "Gabán Clara",
       "img": "https://firebasestorage.googleapis.com/v0/b/natural-app-a5042.appspot.com/o/wom_02.png?alt=media&token=b23a6b10-cc9d-43f7-97cb-0dec47af5644",
       "description": "Presentamos el nuevo gabán para mujer, un imprescindible en tu guardarropa de invierno. Este gabán combina a la perfección estilo y funcionalidad, confeccionado con materiales de alta calidad que lo hacen resistente y duradero. Su corte clásico y elegante te hará lucir sofisticada en cualquier ocasión. Además, cuenta con una capucha desmontable y cierre con cremallera para mayor comodidad y versatilidad. Disponible en varios colores y tallas, este gabán se adapta a diferentes estilos y gustos. No dejes pasar la oportunidad de añadir este hermoso gabán a tu colección de ropa de invierno y estar preparada para cualquier clima frío. Este gabán para mujer es perfecto para darle un toque elegante y sofisticado a cualquier outfit. Su corte entallado acentúa la figura femenina. Este gabán es la pieza esencial que toda mujer necesita en su armario de invierno.",
@@ -30,7 +30,7 @@
       "type_id": 1
     },
     {
-      "id": 3,
+      "id": 2,
       "name": "Gabán Linda",
       "img": "https://firebasestorage.googleapis.com/v0/b/natural-app-a5042.appspot.com/o/wom_03.png?alt=media&token=67324d87-6538-4a31-8a21-9845d0bea6a0",
       "description": "Presentamos el nuevo gabán para mujer, un imprescindible en tu guardarropa de invierno. Este gabán combina a la perfección estilo y funcionalidad, confeccionado con materiales de alta calidad que lo hacen resistente y duradero. Su corte clásico y elegante te hará lucir sofisticada en cualquier ocasión. Además, cuenta con una capucha desmontable y cierre con cremallera para mayor comodidad y versatilidad. Disponible en varios colores y tallas, este gabán se adapta a diferentes estilos y gustos. No dejes pasar la oportunidad de añadir este hermoso gabán a tu colección de ropa de invierno y estar preparada para cualquier clima frío. Este gabán para mujer es perfecto para darle un toque elegante y sofisticado a cualquier outfit. Su corte entallado acentúa la figura femenina. Este gabán es la pieza esencial que toda mujer necesita en su armario de invierno.",
@@ -43,7 +43,7 @@
       "type_id": 1
     },
     {
-      "id": 4,
+      "id": 3,
       "name": "Gabán Stella",
       "img": "https://firebasestorage.googleapis.com/v0/b/natural-app-a5042.appspot.com/o/wom_04.png?alt=media&token=d354ead2-d5c0-4785-9f78-001a6b7db35a",
       "description": "Presentamos el nuevo gabán para mujer, un imprescindible en tu guardarropa de invierno. Este gabán combina a la perfección estilo y funcionalidad, confeccionado con materiales de alta calidad que lo hacen resistente y duradero. Su corte clásico y elegante te hará lucir sofisticada en cualquier ocasión. Además, cuenta con una capucha desmontable y cierre con cremallera para mayor comodidad y versatilidad. Disponible en varios colores y tallas, este gabán se adapta a diferentes estilos y gustos. No dejes pasar la oportunidad de añadir este hermoso gabán a tu colección de ropa de invierno y estar preparada para cualquier clima frío. Este gabán para mujer es perfecto para darle un toque elegante y sofisticado a cualquier outfit. Su corte entallado acentúa la figura femenina. Este gabán es la pieza esencial que toda mujer necesita en su armario de invierno.",
